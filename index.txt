@@ -355,7 +355,7 @@ Restaurant Homepage
         <div class="team">
             <!-- Owner 1 Section -->
             <div class="team-member">
-                <img src="C:\Users\Shyam Sundar Yadav\Pictures\Camera Roll\pra.jpg">
+                <img src="C:\Users\Shyam Sundar Yadav\Documents\GitHub\project.github.io
                 <h2>PRATIBHA KUMARI</h2>
                 <h3>Owner</h3>
                 <p>Pratibha founded the restaurant with a vision to create a space where people can enjoy delicious meals and great company. Her passion for hospitality drives the overall direction of the restaurant, and she ensures that every detail is perfect.</p>
